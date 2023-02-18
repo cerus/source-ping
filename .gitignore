@@ -1,0 +1,7 @@
+target/
+.idea/
+dependency-reduced-pom.xml
+*.iml
+config.json
+config.json.bak
+pings.db
